@@ -1,0 +1,22 @@
+{
+    "name": "vto",
+    "description": "Deploy vto on Heroku.",
+    "keywords": ["vto"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "56971d3a-045a-449a-be18-723eed410345"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "688"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "",
+    "repository": "https://github.dev/sos233/vtoray",
+    "stack": "container"
+}
